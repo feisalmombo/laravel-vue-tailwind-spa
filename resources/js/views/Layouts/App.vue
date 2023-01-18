@@ -6,7 +6,7 @@
                 <div class="flex items-center cursor-pointer" @click="router.push({name: 'Dashboard'})">
                     <img src="/images/icon.png" class="h-12" />
                     <span class="ml-2 font-bold"
-                        >Laravel, VueJS, Tailwind SPA CRUD</span
+                        >Laravel, VueJS, Tailwind CSS SPA CRUD</span
                     >
                 </div>
 
